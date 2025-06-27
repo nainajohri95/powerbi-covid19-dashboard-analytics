@@ -154,7 +154,7 @@ covid19-dashboard/
 ## 📧 Contact
 **Naina Johri** - Data Analyst  
 - Email: johrinaina80@gmail.com
-- LinkedIn: [[Naina Johri](https://www.linkedin.com/in/naina-johri/)]
+- LinkedIn: [[[Naina Johri](https://www.linkedin.com/in/naina-johri/)](https://www.linkedin.com/in/naina-johri/)]
 
 ## 🙏 Acknowledgments
 - Data source: Kaggle COVID-19 India Dataset
