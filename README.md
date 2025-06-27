@@ -18,7 +18,8 @@ A comprehensive 5-page Power BI dashboard analyzing COVID-19 pandemic data acros
 ## 📈 Dashboard Pages
 
 ### Page 1: Executive Summary
-[Screenshot 2025-06-27 131046](https://github.com/user-attachments/assets/68031112-0ae0-4f83-aad8-0ba620d7225c)
+![Screenshot 2025-06-27 131046](https://github.com/user-attachments/assets/b187365e-d497-4133-9c2d-8c6712af1b5e)
+
 
 - **Total Cases**: 5 billion confirmed cases
 - **Total Deaths**: 73 million 
@@ -28,7 +29,7 @@ A comprehensive 5-page Power BI dashboard analyzing COVID-19 pandemic data acros
 - **Vaccination Progress**: 24% population fully vaccinated
 
 ### Page 2: COVID-19 Cases Analysis  
-![Cases Analysis Dashboard] ![Screenshot 2025-06-27 131102](https://github.com/user-attachments/assets/3d2b40e8-db60-4cf8-be00-7db2b8973181)
+![Screenshot 2025-06-27 131102](https://github.com/user-attachments/assets/3d2b40e8-db60-4cf8-be00-7db2b8973181)
 
 - **Active Cases**: 5 billion current active cases
 - **Peak Date**: August 11, 2021 recorded highest confirmed cases
@@ -38,7 +39,7 @@ A comprehensive 5-page Power BI dashboard analyzing COVID-19 pandemic data acros
 - **State Comparison**: Treemap visualization of active cases by state
 
 ### Page 3: Vaccination Dashboard
-![Vaccination Dashboard] ![Screenshot 2025-06-27 131119](https://github.com/user-attachments/assets/94018e8c-2b09-402e-be69-5baffcca19ac)
+![Screenshot 2025-06-27 131119](https://github.com/user-attachments/assets/94018e8c-2b09-402e-be69-5baffcca19ac)
 
 - **Total Doses**: 70 billion doses administered
 - **People Vaccinated**: 57 billion individuals
@@ -48,7 +49,7 @@ A comprehensive 5-page Power BI dashboard analyzing COVID-19 pandemic data acros
 - **Dose Distribution**: First vs Second dose comparison by state
 
 ### Page 4: Testing Analytics
-![Testing Analytics Dashboard] ![Screenshot 2025-06-27 131134](https://github.com/user-attachments/assets/5cb421d0-7e84-4177-aca4-316dfafe3408)
+![Screenshot 2025-06-27 131134](https://github.com/user-attachments/assets/5cb421d0-7e84-4177-aca4-316dfafe3408)
 
 - **Total Tests**: 88 billion tests conducted
 - **Positivity Rate**: 36% average across states
@@ -57,7 +58,7 @@ A comprehensive 5-page Power BI dashboard analyzing COVID-19 pandemic data acros
 - **Top 5 States**: Maharashtra, Kerala, Jharkhand, Tamil Nadu, Tripura for positive cases
 
 ### Page 5: Insights & Conclusions
-![Insights Dashboard] ![Screenshot 2025-06-27 131148](https://github.com/user-attachments/assets/af2510dd-99de-40e7-b804-3028f32bf53b)
+![Screenshot 2025-06-27 131148](https://github.com/user-attachments/assets/af2510dd-99de-40e7-b804-3028f32bf53b)
 **Key Findings:**
 
 - Maharashtra consistently showed highest case load throughout the pandemic
