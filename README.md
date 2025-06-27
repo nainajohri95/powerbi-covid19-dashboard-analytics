@@ -18,7 +18,7 @@ A comprehensive 5-page Power BI dashboard analyzing COVID-19 pandemic data acros
 ## 📈 Dashboard Pages
 
 ### Page 1: Executive Summary
-![Executive Summary Dashboard]![Screenshot 2025-06-27 131046](https://github.com/user-attachments/assets/68031112-0ae0-4f83-aad8-0ba620d7225c)
+[Screenshot 2025-06-27 131046](https://github.com/user-attachments/assets/68031112-0ae0-4f83-aad8-0ba620d7225c)
 
 - **Total Cases**: 5 billion confirmed cases
 - **Total Deaths**: 73 million 
