@@ -152,7 +152,7 @@ covid19-dashboard/
 5. Use drill-through features for detailed analysis
 
 ## 📧 Contact
-**Naina Johri** - Data Analyst  
+**Naina Johri**
 - Email: johrinaina80@gmail.com
 - LinkedIn: https://www.linkedin.com/in/naina-johri/
 
