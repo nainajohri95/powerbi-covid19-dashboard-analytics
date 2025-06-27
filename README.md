@@ -23,7 +23,7 @@ A comprehensive 5-page Power BI dashboard analyzing COVID-19 pandemic data acros
 
 - **Total Cases**: 5 billion confirmed cases
 - **Total Deaths**: 73 million 
-- **Total Vaccinations**: 549 thousand doses
+- **Total Vaccinations**: 549 trillion doses
 - **Geographic Distribution**: Interactive map showing state-wise case distribution
 - **Top 5 States**: Maharashtra, Karnataka, Kerala, Tamil Nadu, Andhra Pradesh leading in cases
 - **Vaccination Progress**: 24% population fully vaccinated
